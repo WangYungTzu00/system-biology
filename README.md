@@ -10,5 +10,10 @@ When simulating flocking behavior, a common approach is to use agent-based model
 Using Python, we can create a simulation environment where each bird is treated as an individual object, continually updating their positions and velocities based on the rules mentioned above. This not only aids biologists in understanding bird behavior but also has applications in robotics, artificial intelligence, and other fields to study and implement coordinated autonomous systems.
 
 
+Thanks to the invitation from NCTS, this was a collaborative effort by me and my team (NBNC). 
 
+
+
+
+For more information, please refer to the following URL.
 > https://www.altschulerwulab.org/

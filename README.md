@@ -1,4 +1,4 @@
-## Bacterial chemotaxis Modeling perfect adaptation-Steven Altschuler
+## Biological Mathematics
 
 Biological mathematics is a field that uses mathematical tools and techniques to study biological systems. In this field, programming languages like Python are often used to simulate and analyze behaviors from single-cell organisms to entire ecosystems. An interesting application is the simulation of flocking behavior in birds, which helps understand how birds coordinate flight and swiftly change their formations.
 
